@@ -6,6 +6,8 @@ An interactive Quiz App built using HTML, CSS, and JavaScript.
 
 ![Quiz App Screenshot](screenshots/quiz-app.png)
 
+![Live Demo](https://mohammednageh97.github.io/Quiz-App/)
+
 ## 📌 About The Project
 
 This project is a simple quiz application that allows users to answer multiple-choice questions and test their knowledge.
