@@ -35,4 +35,4 @@ This project is a simple quiz application that allows users to answer multiple-c
 
 ## 👨‍💻 Author
 
-Mohammed Nageh
+[ Mohammed Nageh ]((https://github.com/MohammedNageh97))
